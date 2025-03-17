@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Mohd Azam Ansari!<br>- 💻 Software Developer passionate about building scalable and efficient applications.  <br>- 🔍 Interested in real-world projects, authentication & authorization, and learning new technology.  <br>- 🎯 Currently working on a **Django-based e-commerce site** and exploring **API gateways & react**.  <br>- 📚 Always learning about **code optimization, encryption, and testing strategies**. 
 
+# Trophies:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhirai7" alt="abhirai7" /></a> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ansariazam010/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-azam-ansari-206599248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azamansari20may2004@gmail.com) 
